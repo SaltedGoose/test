@@ -1,5 +1,5 @@
 async function insertRow() {
-      const url = 'https://script.google.com/macros/s/AKfycbxtMUpffpNBff6yViUjg221TUcniVh_VGD69uVh2p77qLrhAIRxfwgR3U4sANuWpnrUxA/exec'; // Replace this with your deployed Apps Script URL
+      const url = 'https://script.google.com/macros/s/AKfycbxd8DQBB2n-dKMO2gZAfxnGYq-eAAWUCCCP-sUEyN7qEbi76wQkaU2scMa1f9YyPG0QWw/exec'; // Replace this with your deployed Apps Script URL
 
       const data = {
         movie: "up",
